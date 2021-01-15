@@ -18,34 +18,26 @@ const Config: ConfigProps = {
     socialLinks: [
         {
             icon: faTwitter,
-            url: "#"
+            url: "https://twitter.com/rishabk7"
         },
         {
-            icon: faInstagram,
-            url: "#"
+            icon: faGithub,
+            url: "https://github.com/rishabkumar7"
         }
     ],
     navbarLinks: [
         {
-            text: "Link 1",
-            href: "#"
+            text: "Portfolio",
+            href: "https://rishabkumar.com"
         },
         {
-            text: "Link 2",
-            href: "#"
-        },
-        {
-            text: "Link 3",
-            href: "#"
-        },
-        {
-            text: "Link 4",
-            href: "#"
-        },
-        {
-            text: "Link 5",
-            href: "#"
+            text: "LinkedIN",
+            href: "https://linkedin.com/in/rishabkumar7"
         }
+        // {
+        //    text: "Link 3",
+        //    href: "#"
+        //}
     ],
     blogDescription: "I write tech articles about my side-projects"
 }
