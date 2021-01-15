@@ -21,7 +21,7 @@ const Config: ConfigProps = {
             url: "https://twitter.com/rishabk7"
         },
         {
-            icon: faGithub,
+            icon: faGitHub,
             url: "https://github.com/rishabkumar7"
         }
     ],
