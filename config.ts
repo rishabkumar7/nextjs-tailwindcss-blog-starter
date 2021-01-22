@@ -1,5 +1,5 @@
 import { IconProp } from "@fortawesome/fontawesome-svg-core"
-import { faGithub, faTwitter } from "@fortawesome/free-brands-svg-icons"
+import { faGithub, faTwitter, faLinkedin } from "@fortawesome/free-brands-svg-icons"
 import { NavbarLinkProps } from "./components/navbar-link"
 
 type SocialLinkProps = {
@@ -21,6 +21,10 @@ const Config: ConfigProps = {
             url: "https://twitter.com/rishabk7"
         },
         {
+            icon: faLinkedin,
+            url: "https://linkedin.com/in/rishabkumar7"
+        },
+        {
             icon: faGithub,
             url: "https://github.com/rishabkumar7"
         }
@@ -30,10 +34,6 @@ const Config: ConfigProps = {
             text: "Portfolio",
             href: "https://rishabkumar.com"
         },
-        {
-            text: "LinkedIN",
-            href: "https://linkedin.com/in/rishabkumar7"
-        }
         // {
         //    text: "Link 3",
         //    href: "#"
