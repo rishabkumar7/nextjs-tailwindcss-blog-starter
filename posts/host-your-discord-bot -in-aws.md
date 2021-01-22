@@ -1,7 +1,7 @@
 ---
 title: 'Host you Discord bot in AWS'
 date: '2020-02-10'
-coverUrl: 'https://i.imgur.com/8MNpdtD.png'
+coverUrl: 'https://images.unsplash.com/photo-1495055154266-57bbdeada43e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjV8fGJvdHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'
 tags: 'Tutorial,AWS'
 ---
 

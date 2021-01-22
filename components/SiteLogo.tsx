@@ -7,7 +7,7 @@ const SiteLogo: FunctionComponent = () => {
             <a href="/">
                 <img
                     className="block lg:hidden h-10 w-auto"
-                    src="/techblog-logo-mobile.png"
+                    src="/nobg.png"
                     alt="Workflow"
                 />
             </a>
@@ -15,7 +15,7 @@ const SiteLogo: FunctionComponent = () => {
             <a href="/">
                 <img
                     className="hidden lg:block h-32 w-auto"
-                    src="/techblog-logo.png"
+                    src="/nobg1.png"
                     alt="Workflow"
                 />
             </a>

@@ -1,7 +1,7 @@
 ---
 title: 'How to become JavaScript Ninja'
 date: '2020-04-12'
-coverUrl: 'https://i.imgur.com/8MNpdtD.png'
+coverUrl: 'https://res.cloudinary.com/practicaldev/image/fetch/s--z9zSMrb5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d8iypa0nhfqguykyumv8.png'
 tags: 'JavaScript,WebDev'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Dark theme in SQL Server Management Studio'
 date: '2020-05-12'
-coverUrl: 'https://i.imgur.com/8MNpdtD.png'
+coverUrl: 'https://res.cloudinary.com/practicaldev/image/fetch/s--IgKPE43E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ctntc9tcrajwd2uel567.png'
 tags: 'SQL'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'How I passed the Azure Fundamentals with mostly free content 📑'
 date: '2020-06-29'
-coverUrl: 'https://i.imgur.com/8MNpdtD.png'
+coverUrl: 'https://res.cloudinary.com/practicaldev/image/fetch/s--rRuafNuJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ubpeuj6llzzxqeu7trtj.jpg'
 tags: 'Certifications,Azure'
 ---
 

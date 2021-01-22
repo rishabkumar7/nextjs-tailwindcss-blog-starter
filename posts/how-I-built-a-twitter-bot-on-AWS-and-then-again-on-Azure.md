@@ -1,7 +1,7 @@
 ---
 title: 'How I built a twitter bot on AWS and then again on Azure 😲🤖'
 date: '2020-07-06'
-coverUrl: 'https://i.imgur.com/8MNpdtD.png'
+coverUrl: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
 tags: 'AWS,Azure'
 ---
 

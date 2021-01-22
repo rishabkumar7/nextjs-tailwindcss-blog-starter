@@ -1,7 +1,7 @@
 ---
 title: 'Beautify your Terminal-WSL2'
 date: '2020-05-25'
-coverUrl: 'https://i.imgur.com/8MNpdtD.png'
+coverUrl: 'https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/ubuntu-20.4-wsl.jpg'
 tags: 'Linux'
 ---
 

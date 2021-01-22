@@ -1,7 +1,7 @@
 ---
 title: 'How to set up your own VPN Client in 15 mins 💻'
 date: '2020-07-20'
-coverUrl: 'https://i.imgur.com/8MNpdtD.png'
+coverUrl: 'https://res.cloudinary.com/practicaldev/image/fetch/s--RLS0upXr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d4ostyipug1km2ptq7mc.jpg'
 tags: 'Linux,Azure'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'How you can start your AWS Certifications journey for free 📚'
 date: '2020-06-24'
-coverUrl: 'https://i.imgur.com/8MNpdtD.png'
+coverUrl: 'https://res.cloudinary.com/practicaldev/image/fetch/s--6a4GxLxb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ym485nw2ansbsxmkrycf.png'
 tags: 'Certifications,AWS'
 ---
 
