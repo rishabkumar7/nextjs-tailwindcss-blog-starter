@@ -39,7 +39,7 @@ const Config: ConfigProps = {
         //    href: "#"
         //}
     ],
-    blogDescription: "I write tech articles about my side-projects"
+    blogDescription: "I have gathered some notes about my cloud certifications, hope they help you with your preparations."
 }
 
 export default Config
