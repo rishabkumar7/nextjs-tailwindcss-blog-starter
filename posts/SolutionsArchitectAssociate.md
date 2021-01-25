@@ -1,7 +1,7 @@
 ---
 title: 'AWS Solutions Architect Associate'
 date: '2020-05-25'
-coverUrl: 'https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/ubuntu-20.4-wsl.jpg'
+coverUrl: 'https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png'
 tags: 'AWS'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'AWS Developer Associate'
 date: '2020-05-25'
-coverUrl: 'https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/ubuntu-20.4-wsl.jpg'
+coverUrl: 'https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer_Associate_512x512.6d5f0ad35de66966c96f8e408e4fd919c1a2d753.png'
 tags: 'AWS'
 ---
 

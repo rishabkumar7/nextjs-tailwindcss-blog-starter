@@ -1,7 +1,7 @@
 ---
 title: 'AWS Cloud Practitioner'
 date: '2020-05-25'
-coverUrl: 'https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/ubuntu-20.4-wsl.jpg'
+coverUrl: 'https://images.youracclaim.com/size/680x680/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png'
 tags: 'AWS'
 ---
 
