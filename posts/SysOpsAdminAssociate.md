@@ -1,7 +1,7 @@
 ---
 title: 'AWS SysOps Administrator Associate'
 date: '2020-05-25'
-coverUrl: 'https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Sysops-Administrator_Associate_512x512.7ee4f9e7f4046349a3bfe27dcb1a54a340e04623.png'
+coverUrl: 'https://rishabincloud.s3.amazonaws.com/CloudNotes/AWSSysOps.png'
 tags: 'AWS'
 ---
 

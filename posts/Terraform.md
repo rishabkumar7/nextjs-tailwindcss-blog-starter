@@ -1,7 +1,7 @@
 ---
-title: 'Terraform Associate'
+title: 'HashiCorp Certified Terraform Associate'
 date: '2020-05-25'
-coverUrl: 'https://www.datocms-assets.com/2885/1586800192-terraformassociateweb.png'
+coverUrl: 'https://rishabincloud.s3.amazonaws.com/CloudNotes/TerraformAssociate.png'
 tags: 'Terraform'
 ---
 

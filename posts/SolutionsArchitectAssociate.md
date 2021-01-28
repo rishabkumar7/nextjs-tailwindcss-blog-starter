@@ -1,7 +1,7 @@
 ---
 title: 'AWS Solutions Architect Associate'
 date: '2020-05-25'
-coverUrl: 'https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png'
+coverUrl: 'https://rishabincloud.s3.amazonaws.com/CloudNotes/AWSSAA.png'
 tags: 'AWS'
 ---
 

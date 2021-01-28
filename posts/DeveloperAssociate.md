@@ -1,7 +1,7 @@
 ---
 title: 'AWS Developer Associate'
 date: '2020-05-25'
-coverUrl: 'https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer_Associate_512x512.6d5f0ad35de66966c96f8e408e4fd919c1a2d753.png'
+coverUrl: 'https://rishabincloud.s3.amazonaws.com/CloudNotes/AWSCDA.png'
 tags: 'AWS'
 ---
 
